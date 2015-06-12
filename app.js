@@ -6,7 +6,7 @@ var config = {
   // - Your app's id on moneypot.com
   app_id: 71,                             // <----------------------------- EDIT ME!
   // - Displayed in the navbar
-  app_name: 'Syndicate Dice',
+  app_name: 'Bitcoin Syndicate Dice',
   // - For your faucet to work, you must register your site at Recaptcha
   // - https://www.google.com/recaptcha/intro/index.html
   recaptcha_sitekey: '6LcoBggTAAAAAD16CRmMLNrwv6QSN-t0_ln-HVVJ',  // <----- EDIT ME!
