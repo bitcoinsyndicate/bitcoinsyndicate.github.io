@@ -1,5 +1,10 @@
 body {
-    margin-top: 20px;
+    
+margin-top: 10px;
+margin-left: 10px;
+margin-right 10px;
+padding: 2px solid #b0c4de;
+background-image: url("http://oi57.tinypic.com/346tkb4.jpg");
 }
 
 .navbar .navbar-brand {
